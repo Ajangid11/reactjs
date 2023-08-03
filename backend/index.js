@@ -103,6 +103,7 @@ var transporter = nodemailer.createTransport({
 	,
 // 	{
 // 		filename:name,
+
 // 		path:path,
 // 		content:file.data	
 // 	}
